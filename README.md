@@ -1,5 +1,5 @@
 # 💫 About Me:
- I am  Isha Jayant Shinde.  I am doing Data Analyst Internship <br>in  Puneri Pattern City Magarpatta Park Pune.<br>In this internship I am learning data visualization like <br>power bi, Tableau.  <br>Database with SQL & hands on knowledge on Excel.<br>I am beginner in Python.<br>
+ I am  Isha Jayant Shinde.  I am doing Data Analyst Internship <br>in  Puneri Pattern City Magarpatta Park Pune.<br>In this internship I am learning data visualization like <br>power bi, Tableau, Excel <br>Database with SQL & hands on knowledge on Power BI, Tableau,Excel.<br>I am beginner in Python.<br>
 
 
 ## 🌐 Socials:
